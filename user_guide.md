@@ -19,3 +19,6 @@ Commande Git
      
 Explication GitHub
 ======
+![Alt text](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub.png)
+## 1. Explication des différents boutons
+  * 
