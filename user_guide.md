@@ -1,6 +1,9 @@
 User guide for the utilisation with Git & GitHub
 ======
-## Avant de faire ces commandes, mettez vous dans le dossier ou le code est présent
+**Avant de faire ces commandes, mettez vous dans le dossier ou le code est présent**
+----------
+Commande Git
+======
 ### 1. Commande Git -> GitHub
    * `git add .` -> **ajoute le code pour commit**
    * `git commit -m "Un message pour qu'on comprenne votre action"` -> **Commit pour permettre de push avec un message**
@@ -13,3 +16,6 @@ User guide for the utilisation with Git & GitHub
    * `git branch "nom de la branche"` -> **Crée une branche**
    * `git status` -> **Voire le status de la branche current**
    * `git checkout "nom de la branche"` ->  **Changer la current branche**
+     
+Explication GitHub
+======
