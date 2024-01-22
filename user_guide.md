@@ -21,4 +21,8 @@ Explication GitHub
 ======
 ![Alt text](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub.png)
 ## 1. Explication des différents boutons
-  * 
+  * ![Alt text](https://github.com/quemet/P_426-Scrum/blob/main/Image/aboutRepo.png) -> **Cet partie explique des specifications comme le nmb de branches**
+  * ![Alt text](https://github.com/quemet/P_426-Scrum/blob/main/Image/acteurRepo.png) -> **Cette partie affiche les users qui ont participé aux projets**
+  * ![Alt text](https://github.com/quemet/P_426-Scrum/blob/main/Image/Add.png) -> **Cette partie permet d'ajputer un fichier ou d'un créer un nouveau**
+  * ![Alt text](https://github.com/quemet/P_426-Scrum/blob/main/Image/branch.png) -> **Cette partie permet de montrer toute les branches du repository**
+  * ![Alt text](https://github.com/quemet/P_426-Scrum/blob/main/Image/code.png) -> **Cette partie permet de download le code**
