@@ -21,8 +21,11 @@ Explication GitHub
 ======
 ![Alt text](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub.png)
 ## 1. Explication des différents boutons
-  * ![Alt text](https://github.com/quemet/P_426-Scrum/blob/main/Image/aboutRepo.png) -> **Cet partie explique des specifications comme le nmb de branches**
-  * ![Alt text](https://github.com/quemet/P_426-Scrum/blob/main/Image/acteurRepo.png) -> **Cette partie affiche les users qui ont participé aux projets**
-  * ![Alt text](https://github.com/quemet/P_426-Scrum/blob/main/Image/Add.png) -> **Cette partie permet d'ajputer un fichier ou d'un créer un nouveau**
-  * ![Alt text](https://github.com/quemet/P_426-Scrum/blob/main/Image/branch.png) -> **Cette partie permet de montrer toute les branches du repository**
-  * ![Alt text](https://github.com/quemet/P_426-Scrum/blob/main/Image/code.png) -> **Cette partie permet de download le code**
+  * ![Image add Code](https://github.com/quemet/P_426-Scrum/blob/main/Image/Add.png) -> **Cette partie permet d'ajputer un fichier ou d'un créer un nouveau**
+  * ![Image search file](https://github.com/quemet/P_426-Scrum/blob/main/Image/SearchFile.png) -> **Cette partie permet de chercher un fichier en spécifique**
+  * ![Image about Repo](https://github.com/quemet/P_426-Scrum/blob/main/Image/aboutRepo.png) -> **Cet partie explique des specifications comme le nmb de branches**
+  * ![Image about contributors](https://github.com/quemet/P_426-Scrum/blob/main/Image/acteurRepo.png) -> **Cette partie affiche les users qui ont participé aux projets**
+  * ![Image about branch](https://github.com/quemet/P_426-Scrum/blob/main/Image/branch.png) -> **Cette partie permet de montrer toute les branches du repository**
+  * ![Image download code](https://github.com/quemet/P_426-Scrum/blob/main/Image/code.png) -> **Cette partie permet de download le code**
+  * ![Image code content](https://gtihub.com/quemet/P_426-Scrum/blob/main/Image/contenuCode.png) -> **Cette partie permet de voir le contenu du code**
+  * ![Image menu Add](https://github.com/quemet/P_426-Scrum/blob/main/Image/menuAdd.png) -> **Cette partie est le menu pour ajouter du code**
