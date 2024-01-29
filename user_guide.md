@@ -38,4 +38,4 @@ Explication GitHub
     ^
     **Cette partie qui se situe en-dessous le code permet de lire le README.md**
   * ![Image package repo](https://github.com/quemet/P_426-Scrum/blob/main/Image/packageRepo.png) -> **Cette partie est la liste des packages utilisé**
-  * ![Image release repo](https://github.com/quemet/P_426-Scrum/blob/main/Image/releaseRepo.png) _> **Cette partie est la liste des releases faites**
+  * ![Image release repo](https://github.com/quemet/P_426-Scrum/blob/main/Image/releaseRepo.png) -> **Cette partie est la liste des releases faites**
