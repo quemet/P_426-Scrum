@@ -27,5 +27,15 @@ Explication GitHub
   * ![Image about contributors](https://github.com/quemet/P_426-Scrum/blob/main/Image/acteurRepo.png) -> **Cette partie affiche les users qui ont participé aux projets**
   * ![Image about branch](https://github.com/quemet/P_426-Scrum/blob/main/Image/branch.png) -> **Cette partie permet de montrer toute les branches du repository**
   * ![Image download code](https://github.com/quemet/P_426-Scrum/blob/main/Image/code.png) -> **Cette partie permet de download le code**
-  * ![Image code content](https://gtihub.com/quemet/P_426-Scrum/blob/main/Image/contenuCode.png) -> **Cette partie permet de voir le contenu du code**
-  * ![Image menu Add](https://github.com/quemet/P_426-Scrum/blob/main/Image/menuAdd.png) -> **Cette partie est le menu pour ajouter du code**
+  * ![Image code content](https://github.com/quemet/P_426-Scrum/blob/main/Image/contenuCode.png)  
+    ^  
+    **Cette partie permet de voir le contenu du code**
+  * ![Image menu add](https://github.com/quemet/P_426-Scrum/blob/main/Image/menuAdd.png) -> **Cette partie est le menu pour ajouter du code**
+  * ![Image menu branch](https://github.com/quemet/P_426-Scrum/blob/main/Image/menuBranch.png) -> **Cette partie est le menu pour les branches**
+  * ![Image menu code](https://github.com/quemet/P_426-Scrum/blob/main/Image/menuCode.png) -> **Cette partie donne des informations par rapport au code**
+  * ![Image menu tag](https://github.com/quemet/P_426-Scrum/blob/main/Image/menuTag.png) -> **Cette partie est le menu pour les tags**
+  * ![Image open file](https://github.com/quemet/P_426-Scrum/blob/main/Image/openFile.png)
+    ^
+    **Cette partie qui se situe en-dessous le code permet de lire le README.md**
+  * ![Image package repo](https://github.com/quemet/P_426-Scrum/blob/main/Image/packageRepo.png) -> **Cette partie est la liste des packages utilisé**
+  * ![Image release repo](https://github.com/quemet/P_426-Scrum/blob/main/Image/releaseRepo.png) _> **Cette partie est la liste des releases faites**
