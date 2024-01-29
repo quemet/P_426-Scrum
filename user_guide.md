@@ -34,7 +34,7 @@ Explication GitHub
   * ![Image menu branch](https://github.com/quemet/P_426-Scrum/blob/main/Image/menuBranch.png) -> **Cette partie est le menu pour les branches**
   * ![Image menu code](https://github.com/quemet/P_426-Scrum/blob/main/Image/menuCode.png) -> **Cette partie donne des informations par rapport au code**
   * ![Image menu tag](https://github.com/quemet/P_426-Scrum/blob/main/Image/menuTag.png) -> **Cette partie est le menu pour les tags**
-  * ![Image open file](https://github.com/quemet/P_426-Scrum/blob/main/Image/openFile.png)
+  * ![Image open file](https://github.com/quemet/P_426-Scrum/blob/main/Image/openFile.png)  
     ^
     **Cette partie qui se situe en-dessous le code permet de lire le README.md**
   * ![Image package repo](https://github.com/quemet/P_426-Scrum/blob/main/Image/packageRepo.png) -> **Cette partie est la liste des packages utilisé**
