@@ -22,13 +22,13 @@ du Lundi 25.1.24 au Lundi 28.1.24
 * Créer les maquettes low fidelity
 * Création des repos pour le future code.
 ### Sprint Backlog
-* ![Task Reorganiser le sprint](https://github.com/quemet/P_426-Scrum/blob/main/Image/TaskReorganiserSprint.png)
-* ![Task S'inscrire au marketPlace](https://github.com/quemet/P_426-Scrum/blob/main/Image/TaskInscrireMarketPlace.png)
-* ![Task Creation du Repo Git](https://github.com/quemet/P_426-Scrum/blob/main/Image/TaskCreationGitHub.png)
-* ![Task Creation arborescence](https://github.com/quemet/P_426-Scrum/blob/main/Image/TaskCreationArborescence.png)
-* ![Task Creation Mode emploi](https://github.com/quemet/P_426-Scrum/blob/main/Image/TaskCreationModeEmploi.png)
-* ![Task Maquette Low Fidelity](https://github.com/quemet/P_426-Scrum/blob/main/Image/TaskMaquetteLow.png)
-* ![Task Chosir palette](https://github.com/quemet/P_426-Scrum/blob/main/Image/TaskChoisirPalette.png)
+* ![Task Reorganiser le sprint](https://github.com/quemet/P_426-Scrum/blob/main/Image/IceScrum/Sprint1/TaskReorganiserSprint.png)
+* ![Task S'inscrire au marketPlace](https://github.com/quemet/P_426-Scrum/blob/main/Image/IceScrum/Sprint1/TaskInscrireMarketPlace.png)
+* ![Task Creation du Repo Git](https://github.com/quemet/P_426-Scrum/blob/main/Image/IceScrum/Sprint1/TaskCreationGitHub.png)
+* ![Task Creation arborescence](https://github.com/quemet/P_426-Scrum/blob/main/Image/IceScrum/Sprint1/TaskCreationArborescence.png)
+* ![Task Creation Mode emploi](https://github.com/quemet/P_426-Scrum/blob/main/Image/IceScrum/Sprint1/TaskCreationModeEmploi.png)
+* ![Task Maquette Low Fidelity](https://github.com/quemet/P_426-Scrum/blob/main/Image/IceScrum/Sprint1/TaskMaquetteLow.png)
+* ![Task Chosir palette](https://github.com/quemet/P_426-Scrum/blob/main/Image/IceScrum/Sprint1/TaskChoisirPalette.png)
 ## Sprint 2
 ### Sprint Date
 du Lundi 5.2.24 au Lundi 19.2.24
