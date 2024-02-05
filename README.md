@@ -36,3 +36,13 @@ du Lundi 5.2.24 au Lundi 19.2.24
 * Finir les maquettes medium fidelity.
 * Avoir une base de données.
 * Ajouter des tests pour les stories.
+### Sprint Backlog
+* ![Task Changer Palette Couleur](https://github.com/quemet/P_426-Scrum/blob/main/Image/IceScrum/Sprint2/TaskChangePalette.png)
+* ![Task Continuer User Guide](https://github.com/quemet/P_426-Scrum/blob/main/Image/IceScrum/Sprint2/TaskContinueUserGuide.png)
+* ![Task Create Back End](https://github.com/quemet/P_426-Scrum/blob/main/Image/IceScrum/Sprint2/TaskCreateBackEnd.png)
+* ![Task Create Database](https://github.com/quemet/P_426-Scrum/blob/main/Image/IceScrum/Sprint2/TaskCreateDatabase.png)
+* ![Task Create Maquette Medium](https://github.com/quemet/P_426-Scrum/blob/main/Image/IceScrum/Sprint2/TaskCreateMaquetteMedium.png)
+* ![Task Create Test User Story](https://github.com/quemet/P_426-Scrum/blob/main/Image/IceScrum/Sprint2/TaskCreateTestUserStory.png)
+* ![Task Create Maquette Medium](https://github.com/quemet/P_426-Scrum/blob/main/Image/IceScrum/Sprint2/TaskMaquetteMedium.png)
+* ![Task Planif Next Sprint](https://github.com/quemet/P_426-Scrum/blob/main/Image/IceScrum/Sprint2/TaskPlanifNextSprint.png)
+* ![Task Valider Maquette](https://github.com/quemet/P_426-Scrum/blob/main/Image/IceScrum/Sprint2/TaskValidationMaquette.png)
