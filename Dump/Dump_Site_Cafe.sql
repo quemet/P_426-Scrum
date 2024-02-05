@@ -1,6 +1,6 @@
-CREATE DATABASE "Cafe_DB";
+CREATE DATABASE Cafe_DB;
 
-USE DATABASE "Cafe_DB";
+USE Cafe_DB;
 
 CREATE TABLE Utilisateur(
    Id_Utilisateur INT AUTO_INCREMENT,
