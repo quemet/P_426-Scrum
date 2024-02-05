@@ -15,6 +15,44 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+## Titre
+Café pour l’électronique
+
+## Sujet
+Mettre en place une plateforme web complète pour la gestion administrative de la section
+électronique, en leur simplifiant l'achat de cafés et de chocolats.
+
+## Vision du produit
+Notre mission est de révolutionner l'expérience des utilisateurs de la section électronique en
+introduisant une solution numérique moderne pour la gestion des achats de cafés et de
+chocolats.  
+
+Nous nous engageons à créer une application mobile conviviale qui simplifiera le processus
+d'achat tout en offrant une interface web complète pour la gestion administrative du stock,
+des soldes et des comptes.  
+
+Notre application mobile permettra aux utilisateurs de sélectionner leurs choix de cafés et de
+chocolats en toute simplicité, éliminant ainsi le besoin de jetons physiques. Grâce à une
+interface intuitive, les utilisateurs pourront visualiser le stock disponible, faire leurs sélections, et
+procéder au paiement en quelques clics.  
+
+Pour les responsables de la section électronique, notre interface web offrira un tableau de
+bord complet pour la gestion du stock, la surveillance des ventes, la gestion des comptes
+utilisateurs et la visualisation des données statistiques. Des fonctionnalités administratives
+avancées, telles que la mise à jour du stock, le suivi des transactions, et la gestion des soldes,
+seront à portée de main pour garantir une gestion efficace de la section.  
+
+En résumé, notre solution digitale vise à simplifier et améliorer l'expérience d'achat pour les
+utilisateurs tout en fournissant aux responsables une plateforme web complète pour une
+gestion administrative transparente et efficace. Nous sommes déterminés à créer une
+solution intégrée qui réponde aux besoins de la section électronique et qui soit à la hauteur
+des attentes en termes de convivialité et de fonctionnalités.
+
+## Product Goal
+Mettre en place une plateforme web complète pour la gestion administrative de la section
+électronique, en leur simplifiant l'achat de cafés et de chocolats.
+
+
 ## Sprint 1
 ### Sprint Date
 du Lundi 25.1.24 au Lundi 28.1.24
