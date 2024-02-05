@@ -13,6 +13,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
 ## Sprint 1
 ### Sprint Date
 du Lundi 25.1.24 au Lundi 28.1.24
@@ -33,4 +35,4 @@ du Lundi 5.2.24 au Lundi 19.2.24
 ### Sprint Goal
 * Finir les maquettes medium fidelity.
 * Avoir une base de données.
-* Ajouter des tests pour les stories
+* Ajouter des tests pour les stories.
