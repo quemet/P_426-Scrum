@@ -18,10 +18,15 @@
 du Lundi 25.1.24 au Lundi 28.1.24
 ### Sprint Goal
 * Créer les maquettes low fidelity
-* Créer les maquettes high fidelity.
 * Création des repos pour le future code.
 ### Sprint Backlog
-![IceScrum](https://etml.icescrum.com/p/426POLEDES/#/planning/608/sprint/614/details)  
+* ![Task Reorganiser le sprint](https://github.com/quemet/P_426-Scrum/blob/main/Image/TaskReorganiserSprint.png)
+* ![Task S'inscrire au marketPlace](https://github.com/quemet/P_426-Scrum/blob/main/Image/TaskInscrireMarketPlace.png)
+* ![Task Creation du Repo Git](https://github.com/quemet/P_426-Scrum/blob/main/Image/TaskCreationGitHub.png)
+* ![Task Creation arborescence](https://github.com/quemet/P_426-Scrum/blob/main/Image/TaskCreationArborescence.png)
+* ![Task Creation Mode emploi](https://github.com/quemet/P_426-Scrum/blob/main/Image/TaskCreationModeEmploi.png)
+* ![Task Maquette Low Fidelity](https://github.com/quemet/P_426-Scrum/blob/main/Image/TaskMaquetteLow.png)
+* ![Task Chosir palette](https://github.com/quemet/P_426-Scrum/blob/main/Image/TaskChoisirPalette.png)
 ## Sprint 2
 ### Sprint Date
 du Lundi 5.2.24 au Lundi 19.2.24
