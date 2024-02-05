@@ -19,23 +19,23 @@ Commande Git
      
 Explication GitHub
 ======
-![Alt text](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub.png)
+![Alt text](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub/GitHub.png)
 ## 1. Explication des différents boutons
-  * ![Image add Code](https://github.com/quemet/P_426-Scrum/blob/main/Image/Add.png) -> **Cette partie permet d'ajputer un fichier ou d'un créer un nouveau**
-  * ![Image search file](https://github.com/quemet/P_426-Scrum/blob/main/Image/SearchFile.png) -> **Cette partie permet de chercher un fichier en spécifique**
-  * ![Image about Repo](https://github.com/quemet/P_426-Scrum/blob/main/Image/aboutRepo.png) -> **Cet partie explique des specifications comme le nmb de branches**
-  * ![Image about contributors](https://github.com/quemet/P_426-Scrum/blob/main/Image/acteurRepo.png) -> **Cette partie affiche les users qui ont participé aux projets**
-  * ![Image about branch](https://github.com/quemet/P_426-Scrum/blob/main/Image/branch.png) -> **Cette partie permet de montrer toute les branches du repository**
-  * ![Image download code](https://github.com/quemet/P_426-Scrum/blob/main/Image/code.png) -> **Cette partie permet de download le code**
-  * ![Image code content](https://github.com/quemet/P_426-Scrum/blob/main/Image/contenuCode.png)  
+  * ![Image add Code](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub/Add.png) -> **Cette partie permet d'ajputer un fichier ou d'un créer un nouveau**
+  * ![Image search file](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub/SearchFile.png) -> **Cette partie permet de chercher un fichier en spécifique**
+  * ![Image about Repo](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub/aboutRepo.png) -> **Cet partie explique des specifications comme le nmb de branches**
+  * ![Image about contributors](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub/acteurRepo.png) -> **Cette partie affiche les users qui ont participé aux projets**
+  * ![Image about branch](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub/branch.png) -> **Cette partie permet de montrer toute les branches du repository**
+  * ![Image download code](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub/code.png) -> **Cette partie permet de download le code**
+  * ![Image code content](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub/contenuCode.png)  
     ^  
     **Cette partie permet de voir le contenu du code**
-  * ![Image menu add](https://github.com/quemet/P_426-Scrum/blob/main/Image/menuAdd.png) -> **Cette partie est le menu pour ajouter du code**
-  * ![Image menu branch](https://github.com/quemet/P_426-Scrum/blob/main/Image/menuBranch.png) -> **Cette partie est le menu pour les branches**
-  * ![Image menu code](https://github.com/quemet/P_426-Scrum/blob/main/Image/menuCode.png) -> **Cette partie donne des informations par rapport au code**
-  * ![Image menu tag](https://github.com/quemet/P_426-Scrum/blob/main/Image/menuTag.png) -> **Cette partie est le menu pour les tags**
-  * ![Image open file](https://github.com/quemet/P_426-Scrum/blob/main/Image/openFile.png)  
+  * ![Image menu add](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub/menuAdd.png) -> **Cette partie est le menu pour ajouter du code**
+  * ![Image menu branch](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub/menuBranch.png) -> **Cette partie est le menu pour les branches**
+  * ![Image menu code](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub/menuCode.png) -> **Cette partie donne des informations par rapport au code**
+  * ![Image menu tag](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub/menuTag.png) -> **Cette partie est le menu pour les tags**
+  * ![Image open file](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub/openFile.png)  
     ^
     **Cette partie qui se situe en-dessous le code permet de lire le README.md**
-  * ![Image package repo](https://github.com/quemet/P_426-Scrum/blob/main/Image/packageRepo.png) -> **Cette partie est la liste des packages utilisé**
-  * ![Image release repo](https://github.com/quemet/P_426-Scrum/blob/main/Image/releaseRepo.png) -> **Cette partie est la liste des releases faites**
+  * ![Image package repo](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub/packageRepo.png) -> **Cette partie est la liste des packages utilisé**
+  * ![Image release repo](https://github.com/quemet/P_426-Scrum/blob/main/Image/GitHub/releaseRepo.png) -> **Cette partie est la liste des releases faites**
