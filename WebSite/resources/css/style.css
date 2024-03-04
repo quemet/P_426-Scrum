@@ -1,0 +1,137 @@
+ 
+ body {
+    text-align: center;
+    margin-top: 50px;
+}
+header {
+    color: aliceblue;
+    background-color: #753C20;
+    display: flex;
+    justify-content: space-between; /* pour mieux aligner les éléments dans l'en-tête */
+    align-items: center;
+    position: relative;
+    padding: 10px 30px; /* ajustez le padding selon votre design */
+}
+.buttons {
+    margin-top: 20px;
+}
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.menu__box {
+    display: none; /* reste inchangé */
+    list-style: none; /* reste inchangé */
+    margin-top: 0; /* ajusté pour supprimer la marge du haut */
+    padding: 20px; /* ajusté pour ajouter du padding sur tous les côtés */
+    background-color: #753C20; /* reste inchangé */
+    position: fixed; /* modifié de absolute à fixed */
+    right: 0; /* ajouté pour aligner le menu à droite */
+    width: 85%; /* modifié pour occuper 85% de la largeur */
+    height: 100vh; /* ajouté pour faire en sorte que le menu occupe toute la hauteur de la vue */
+    top: 0; /* ajouté pour aligner le menu en haut */
+    transform: translateX(100%); /* ajouté pour initialement cacher le menu sur le côté droit */
+    transition: transform 0.3s ease; /* ajouté pour animer le menu lors de l'ouverture/fermeture */
+    margin-right: 85%;
+}
+
+.menu__item {
+    padding: 12px 20px;
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+.menu__item:hover {
+    background-color: #753C20;
+}
+
+.menu__btn {
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    cursor: pointer;
+    width: 26px;
+    height: 23px;
+}
+.cafe{
+background-color: aliceblue;
+z-index: 213113;
+}
+.menu__button {
+    display: block;
+    width: calc(100% - 40px); /* 20px padding on each side */
+    margin: 10px 20px;
+
+    height: 40px;
+    background: #8C5E31; /* Changer en fonction de votre palette de couleurs */
+    color: white;
+    border: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 20%;
+}
+.menu__img {
+    background-color: aliceblue;
+    float: right;
+    /* Ajuster la taille et le padding si nécessaire */
+}
+.menu__button:hover {
+    background: #754C24; /* Changer en fonction de votre palette de couleurs */
+}
+.menu__item img {
+    float: right;
+    /* Ajuster la taille et le padding si nécessaire */
+}
+.menu__btn > span,
+.menu__btn > span:before,
+.menu__btn > span:after {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 4px;
+    background-color: #ffffff;
+    transition-duration: 0.25s;
+    z-index: 10000;
+}
+
+.menu__btn > span:before {
+    content: '';
+    top: -8px;
+}
+
+.menu__btn > span:after {
+    content: '';
+    top: 8px;
+}
+
+#menu__toggle {
+    opacity: 0;
+}
+
+#menu__toggle:checked + .menu__btn > span {
+    transform: rotate(45deg);
+}
+
+#menu__toggle:checked + .menu__btn > span:before {
+    top: 0;
+    transform: rotate(0);
+}
+
+#menu__toggle:checked + .menu__btn > span:after {
+    top: 0;
+    transform: rotate(90deg);
+}
+
+#menu__toggle:checked ~ .menu__box {
+    display: block;
+}
