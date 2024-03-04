@@ -8,6 +8,7 @@ CREATE TABLE Utilisateur(
    Nom_Utilisateur VARCHAR(100) NOT NULL,
    Prenom_Utilisateur VARCHAR(100) NOT NULL,
    EstAdmin BOOLEAN NOT NULL,
+   MotDePasse_utilisateur VARCHAR(256) NOT NULL,
    PRIMARY KEY(Id_Utilisateur),
    UNIQUE(Pseudo_Utilisateur)
 );
@@ -37,6 +38,13 @@ CREATE TABLE Acheter(
 );
 
 CREATE TABLE Utiliser(
+   Id_Coffee INT,
+   Id_Jeton INT,
+   PRIMARY KEY(Id_Coffee, Id_Jeton),
+   FOREIGN KEY(Id_Coffee) REFERENCES Coffee(Id_Coffee),
+   FOREIGN KEY(Id_Jeton) REFERENCES Jeton(Id_Jeton)
+);
+
    Id_Coffee INT,
    Id_Jeton INT,
    PRIMARY KEY(Id_Coffee, Id_Jeton),
