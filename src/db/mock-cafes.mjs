@@ -21,9 +21,3 @@ export let cafes = [
         created: new Date(),
     }
 ];
-
-export const getUniqueId = () => {
-    const cafesIds = cafes.map(cafe => cafe.id);
-    const maxId = cafesIds.reduce((a, b) => Math.max(a, b));
-    return maxId + 1;
-};
