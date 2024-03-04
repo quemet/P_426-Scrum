@@ -8,7 +8,7 @@ CREATE TABLE Utilisateur(
    Nom_Utilisateur VARCHAR(100) NOT NULL,
    Prenom_Utilisateur VARCHAR(100) NOT NULL,
    EstAdmin BOOLEAN NOT NULL,
-   MotDePasse_utilisateur VARCHAR(256) NOT NULL,
+   MotDePasse_Utilisateur VARCHAR(256) NOT NULL,
    PRIMARY KEY(Id_Utilisateur),
    UNIQUE(Pseudo_Utilisateur)
 );
