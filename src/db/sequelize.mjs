@@ -41,13 +41,13 @@ const importCafes = () => {
 
 const importUsers = () => {
     users.map((user) => {
-        bcrypt.hash(user.password, 10).then((hash) => {
+        bcrypt.hash(user.MotDePasse_Utilisateur, 10).then((hash) => {
             User.create({
-                Pseudo_Utilisateur: user.username,
-                MotDePasse_Utilisateur: user.password,
-                Nom_Utilisateur: user.lastname,
-                Prenom_Utilisateur: user.firstname,
-                EstAdmin: user.estAdmin,
+                Pseudo_Utilisateur: user.Pseudo_Utilisateur,
+                MotDePasse_Utilisateur: hash,
+                Nom_Utilisateur: user.Nom_Utilisateur,
+                Prenom_Utilisateur: user.Prenom_Utilisateur,
+                EstAdmin: user.EstAdmin,
             }).then((user) => console.log(user.toJSON()));
         });
     });
