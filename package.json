@@ -7,7 +7,7 @@
   "scripts": {
     "start": "nodemon src/app.mjs"
   },
-  "author": "QMZ",
+  "author": "Quentin Métroz",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",

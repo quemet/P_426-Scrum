@@ -32,9 +32,9 @@ export let initDb = () => {
 const importCafes = () => {
     cafes.map((cafe) => {
         Cafe.create({
-            Nom_Coffee: cafe.name,
-            Prix_Coffee: cafe.price,
-            Image_Coffee: cafe.image,
+            Nom_Coffee: cafe.Nom_Coffee,
+            Prix_Coffee: cafe.Prix_Coffee,
+            Image_Coffee: cafe.Image_Coffee,
         }).then((cafe) => console.log(cafe.toJSON()));
     });
 };

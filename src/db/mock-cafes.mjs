@@ -1,23 +1,23 @@
 export let cafes = [
     {
-        id: 1,
-        name: "Espresso",
-        price: 1,
-        image: "URL",
+        Id_Coffee: 1,
+        Nom_Coffee: "Espresso",
+        Prix_Coffee: 1,
+        Image_Coffee: "URL",
         created: new Date(),
     },
     {
-        id: 2,
-        name: "Ristretto",
-        price: 1,
-        image: "URL",
+        Id_Coffee: 2,
+        Nom_Coffee: "Ristretto",
+        Prix_Coffee: 1,
+        Image_Coffee: "URL",
         created: new Date(),
     },
     {
-        id: 3,
-        name: "Lungo",
-        price: 1,
-        image: "URL",
+        Id_Coffee: 3,
+        Nom_Coffee: "Lungo",
+        Prix_Coffee: 1,
+        Image_Coffee: "URL",
         created: new Date(),
     }
 ];
